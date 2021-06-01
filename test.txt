@@ -1,0 +1,2 @@
+This is first git text file.
+Welcome to the git VCS.
